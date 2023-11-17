@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Joshua Brusewitz
-jbrusewi@ucsd.edu
+Joshua Brusewitz and Shivani Suthar
